@@ -14,7 +14,7 @@
    <url>https://digital.edeka</url>
 
    <properties>
-      <sonar.version>7.9.1</sonar.version>
+      <sonar.version>7.9.6</sonar.version>
       <!-- Configuration for sonar-packaging-maven-plugin -->
       <sonar.pluginClass>org.sonar.dependencyversion.DependencyVersionPlugin</sonar.pluginClass>
       <sonar.pluginName>Dependency Version</sonar.pluginName>
